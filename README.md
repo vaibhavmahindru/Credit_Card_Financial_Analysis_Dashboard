@@ -4,18 +4,18 @@ Welcome to my project, the <b>"Credit Card Financial Analysis Dashboard"</b>, de
  
 ## Project Description :-
 <ul>
-<li>Performed Data Cleaning and Data Manipulation.
-<li>Performed Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, Seaborn Libraries.
-<li>Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups.
-<li>Improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands.
+<li>The dashboard seamlessly fetches data from the SQL database, leveraging the power of SQL for efficient data retrieval.</li>
+<li>Automatic updates ensure the dashboard reflects the latest information, enabling timely decision-making based on accurate data.</li>
+<li>Implementation of robust data processing techniques and DAX queries to calculate weekly metrics and trends, enhancing data analysis capabilities.</li>
+<li>New columns and calculations are incorporated to streamline data analysis, providing a comprehensive view of credit card performance.</li>
+<li>The dashboards offer a user-friendly experience with interactive elements such as quarterly view buttons and dynamic graphs, facilitating deeper exploration and understanding of credit card data.</li>
 </ul>
 
-## Conclusion :-
+## Dashboard Features :-
 <ul>
-<li>Married women age group 26-35 yrs from UP, 
-<li>Maharastra and Karnataka working in IT, 
-<li>Healthcare and Aviation are more likely to buy products from Food, 
-<li>Clothing and Electronics category
+<li><b>Credit Card Transaction Report:</b> Dive into transaction insights with interactive KPIs and graphs. Explore revenue breakdown by income, marital status, dependents, education, and weekly trends, providing a comprehensive view of credit card performance.</li>
+<li><b>Credit Card Customer Report:</b> Explore customer-centric analytics including revenue by gender, job role, education, expenditure type, customer acquisition cost, quarterly revenue, and total transaction amounts. Gain valuable insights into customer behavior and preferences to enhance marketing strategies and customer retention efforts.</li>
+<li><b>Week Over Week Insights Report:</b> Delve into a detailed report showcasing week-over-week insights on revenue, delinquent accounts, and conversion rates of credit cards. Segregate data based on factors such as job type, income range, card type, and more for in-depth analysis and trend identification.</li>
 </ul>
 
 ## Contact :-
@@ -23,10 +23,5 @@ LinkedIn : https://www.linkedin.com/in/vaibhav-mahindru-845604175/ </br>
 Email : vaibhavmahindru04@gmail.com
 
 Thank you!
-Credit card financial dashboard using Power BI:
-- Developed an interactive dashboard using 
-transaction and customer data from a SQL database, 
-to provide real-time insights.
-- Streamlined data processing & analysis to monitor 
-key performance metrics and trends.
+
 
